@@ -1,4 +1,4 @@
-## Multi linear regression model using Numpy, Matplotlib
+## Multiple linear regression model using Numpy, Matplotlib
 ![cover](/img.png)
 ---
 ### required libraries is [Numpy](https://numpy.org/), [Matplotlib](https://matplotlib.org/)
