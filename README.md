@@ -3,8 +3,7 @@
 ---
 ### The model is used to predict university GPA by training the model on
 #### 1) Number of study hours <br>2) Number of attendants days
-### (knowing that the data are generated using numpy and added some noise to it to make it more realistic)   
-### and implementing gradient descent algorithm and feature scaling to force the cost to reach the minimum value more faster then used matplotlib library to visualize some important graphs .
+#### knowing that the data are generated using numpy and added some noise to it to make it more realistic and implementing gradient descent algorithm and feature scaling to force the cost to reach the minimum value more faster then used matplotlib library to visualize some important graphs .
 
 ### if you find this project interesting or helpful, please consider giving it a ⭐
 
